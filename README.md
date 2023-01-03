@@ -1,2 +1,2 @@
-# Real_Estate_Catalog_Project
-Real_Eastate_Project Frontend and Backend
+# Real_Estate_Catalog
+10x Capstone Project 
